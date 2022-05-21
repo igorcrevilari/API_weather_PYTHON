@@ -5,6 +5,7 @@ Acessei como segundo plano o site "OPEN WEATHER" e de lá retirei a API. Durante
 <br><br>
 A parte mais intrigante foi criar uma interface com a biblioteca Tkinter e dentro dela, desenvolver um INPUT que interagisse com o sistema como uma váriavel, retornando para a função da API como cidade e então aplicando a pesquisa climática.
 <br><br>
+<hr>
 <div align="center">
   
   
@@ -14,3 +15,4 @@ A parte mais intrigante foi criar uma interface com a biblioteca Tkinter e dentr
   ![api_clima_resultado](https://user-images.githubusercontent.com/72578580/169635103-9cf9f088-9733-4d0a-8dd0-e08010f26309.PNG)
 
 </div>
+<hr>
