@@ -3,7 +3,7 @@ from tkinter import *
 
 
 def pegar_dados():
-    API_KEY = "3f8369627fa895e7b28dd84fda5e12dd"  # Acesso da API do site 'OPEN WEATHER'
+    API_KEY = 'key'  # Acesso da API do site 'OPEN WEATHER'
     cidade = x.get()  # pega o Entry (input) da interface TK
     link = f"https://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={API_KEY}&lang=pt_br"
 
