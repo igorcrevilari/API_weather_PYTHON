@@ -1,21 +1,18 @@
-# — Projeto para FACULDADE... 💻
-Esse projeto foi realizado em grupo, tendo como objetivo criar um site dentro do tema E-Waste (lixo eletrônico).
+# — Interface sobre Clima... 🐍
+Esse projeto foi realizado como o meu primeiro contato com o desenvolvimento e interação de APIs em Python.
 <br><br>
-Utilizamos apenas HTML e CSS para desenvolver o site, visto que o tema da aula era sobre o primeiro contato com web design. De acordo com as reuniões dos participantes e as expectativas, eu fui responsável por desenvolver:
-<br><br>
-<i>
-— Template do Site (footer, navbar, padrão de cores, imagens)<br>
-— Aba de Formulário<br>
-— Design primário da página inicial</i>
-<br><br>
-O objetivo a princípio era apenas criar um site relacionado ao tema, mas durante o projeto concluímos que seria importante criar métodos, para que fosse possível monetizar a ideia e criar sistemas de interação com o público e parceiros.
+Através desse projeto, pude ter o primeiro contato com uma API.<br><br>
+Desenvolvi um sistema de interface em Python, utilizando a biblioteca Tkinter, para intermediar e realizar as requisições.<br><br>
+Com a interface desenvolvida, usei os inputs da biblioteca para puxar informações de um site americano climático, assim criando a interação e devolvendo o resultado para o usúario.
 <br><br>
 <hr>
 <div align="center">
 
-  ![pg_inicial](https://user-images.githubusercontent.com/72578580/176976581-4da536fe-c762-4b46-b44b-4ecf9ee1555c.PNG)
+  ![api_clima](https://user-images.githubusercontent.com/72578580/176977269-29e3f8ae-5439-43ab-807b-b4aab933d16b.PNG)
 
-  ![pg_contribua](https://user-images.githubusercontent.com/72578580/176976593-3d5bcb13-2111-4d94-819d-07396cdf53af.PNG)
+
+  ![api_clima_resultado](https://user-images.githubusercontent.com/72578580/176977271-060bea6e-03c1-4ec0-8af6-2403edd42576.PNG)
+
 
   
 </div>
