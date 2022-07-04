@@ -1,9 +1,9 @@
-# — Interface sobre Clima... 🐍
-Esse projeto foi realizado como o meu primeiro contato com o desenvolvimento e interação de APIs em Python.
+# — Interface about Weather... 🐍
+This project was carried out as my first contact with the development and interaction of APIs in Python.
 <br><br>
-Através desse projeto, pude ter o primeiro contato com uma API.<br><br>
-Desenvolvi um sistema de interface em Python, utilizando a biblioteca Tkinter, para intermediar e realizar as requisições.<br><br>
-Com a interface desenvolvida, usei os inputs da biblioteca para puxar informações de um site americano climático, assim criando a interação e devolvendo o resultado para o usúario.
+Through this project, we were able to have the first contact with an API.<br><br>
+Develop an interface system in Python, using the Tkinter library, to intermediate and carry out requests.<br><br>
+With a developed interface, the library inputs to manipulate information from an American climate site, creating an interaction and returning the result to the user.
 <br><br>
 <hr>
 <div align="center">
