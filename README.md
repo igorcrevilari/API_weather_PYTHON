@@ -3,7 +3,9 @@ This project was carried out as my first contact with the development and intera
 <br><br>
 Through this project, we were able to have the first contact with an API.<br><br>
 Develop an interface system in Python, using the Tkinter library, to intermediate and carry out requests.<br><br>
-With a developed interface, the library inputs to manipulate information from an American climate site, creating an interaction and returning the result to the user.
+With a developed interface, the library inputs to manipulate information, creating an interaction and returning the result to the user.
+
+<div align="center>P.S: The application was developed in pt-br..</div>
 <br><br>
 <hr>
 <div align="center">
